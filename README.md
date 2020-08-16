@@ -6,6 +6,6 @@ The project is currently in the process of integrating GGPO. Please rollback to 
 
 All development, design, and art is done by Chunlok Lo.
 
-![Screenshot](.\img\2020-06-22.png)
+![Screenshot](img/2020-06-22.png)
 
 Developed with Unreal Engine 4
